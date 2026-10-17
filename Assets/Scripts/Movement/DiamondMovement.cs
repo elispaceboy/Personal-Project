@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class DiamondMovement : MonoBehaviour
 {
-    private float speed = 40.0f;
+    private float speed = 30.0f;
     private float angularVelocity = 10.0f;
     private GameObject player;
     private Rigidbody diamondRb;

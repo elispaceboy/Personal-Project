@@ -7,7 +7,7 @@ public class SpawnManager : MonoBehaviour
     public GameObject[] enemyPrefabs;
     public GameObject powerupPrefab;
     private float boundY = 7;
-    private float boundX = 22;
+    private float boundX = 18;
 
 
     // Update is called once per frame

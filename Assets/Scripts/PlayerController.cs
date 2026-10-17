@@ -20,7 +20,7 @@ public class PlayerController : MonoBehaviour
     public GameObject powerupIconOn;
     public GameObject powerupIconOff;
 
-    private float maxX = 18;
+    private float maxX = 14;
     private float maxY = 8;
 
     private float wrapEjectVelocityMultiplier = 0.5f;

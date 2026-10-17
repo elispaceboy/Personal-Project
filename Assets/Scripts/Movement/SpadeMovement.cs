@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class SpadeMovement : MonoBehaviour
 {
-    private float speed = 30.0f;
+    private float speed = 25.0f;
     private float boundY = 8;
     private float aimBoundShift = 5.0f;
     private float angularVelocity = 10.0f;
